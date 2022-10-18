@@ -1,0 +1,118 @@
+.backgroundimage{
+    position: relative;
+    width: 100%;
+    height: 410px;
+}
+.logo{
+    position: absolute;
+    margin: 20px 0px 0px -1229px;
+    width: 165px;
+}
+.burger{
+    position: absolute;
+    margin: 52px 0px 0px -496px;
+    width: 384px;
+}
+.Details{
+    position: absolute;
+    margin: -370px 0px 0px 578px;
+    list-style: none;
+}
+.a{
+    float: left;
+    padding: 0px 0px 0px 35px;
+}
+.b{
+    font-size: 13px;
+    border: dashed;
+    padding: 3px 15px 6px 10px;
+}
+.c{
+    font-size: 90px;
+}
+.d{
+    font-size: 45px;
+}
+.e{
+    position: absolute;
+    margin:-261px 0px 0px 94px;
+}
+.f{
+    width: 1100px;
+    height: 400px;
+    margin:45px 0px 0px 82px;
+    border-radius: 15px;
+    border: 5px solid orange;
+}
+h1{
+    text-align: center;
+}
+.g{
+    text-align: center;
+}
+.h{
+    float: left;
+    padding: 35px 0px 0px 0px;
+}
+.j{
+    float: left;
+    padding: 35px 0px 0px 0px;
+}
+.k{
+    padding: 35px 0px 0px 0px;
+}
+h2{
+    text-align: center;
+}
+.l{
+    text-align: center;
+}
+.m{
+    padding:5px 5px 5px 5px;
+    margin:0px 0px 0px 154px;
+    background-color: red;
+    color: white;
+    border:0px;
+}
+.section4{
+    position: relative;
+}
+.p{
+    height: 250px;
+    padding: 0px 0px 0px 518px;
+    margin: -173 0px 0px 177px;
+}
+.o{
+    margin: 34px 32px 0px 38px;
+    padding: 88px 0px 33px 39px;
+}
+.q{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+.r{
+    display: flex;
+    justify-content: center;
+}
+.s{
+    margin: 0px 35px 14px 0px;
+}
+.t{
+    margin: 0px 35px 14px 0px;
+}
+.u{
+    margin: 0px 0px 0px 418px;
+}
+.v{
+    padding: 2px 37px 2px 41px;
+    margin: 0px 0px 0px 33px;
+    background-color: red;
+    color: white;
+    border: none; 
+}
+.w{
+    font-size: 50px;
+}
